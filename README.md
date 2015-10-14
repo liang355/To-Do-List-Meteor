@@ -1,5 +1,8 @@
 # To-Do-List-Meteor
-A simple to-do list created with Meteor.
+
+<p>April 2015</p>
+<p>Author: Yingbin Liang</p>
+<p>A simple to-do list created with Meteor</p>
 
 Instructions(Mac):
 
