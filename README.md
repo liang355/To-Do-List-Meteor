@@ -1,7 +1,7 @@
 # To-Do-List-Meteor
 
 <p>April 2015</p>
-<p>Author: Yingbin Liang</p>
+<p>@Author: Yingbin Liang</p>
 <p>A simple to-do list created with Meteor</p>
 
 Instructions(Mac):
